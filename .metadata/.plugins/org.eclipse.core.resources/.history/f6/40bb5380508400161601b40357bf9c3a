@@ -1,0 +1,11 @@
+
+public class Teste {
+	public static void main(String[] args) {
+		
+		double valDouble = 2147483648L;
+		
+		//int valor = (int)valDouble;
+		
+		//System.out.println(valor);
+	}
+}

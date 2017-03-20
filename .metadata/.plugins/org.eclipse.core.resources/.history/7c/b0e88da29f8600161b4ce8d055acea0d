@@ -1,0 +1,8 @@
+
+public class Principal {
+	public static void main(String[] args) throws ClassNotFoundException {
+		Class<?> classe = Class.forName("java.lang.String");
+		
+		System.out.println(classe.getClassLoader());
+	}
+}

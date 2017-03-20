@@ -1,0 +1,8 @@
+package br.com.alura.argentum.bean;
+
+import javax.faces.bean.ManagedBean;
+
+@ManagedBean
+public class OlaMundoBean {
+	private String mensagem = "Essa mensagem veio direto do meu Bean";
+}

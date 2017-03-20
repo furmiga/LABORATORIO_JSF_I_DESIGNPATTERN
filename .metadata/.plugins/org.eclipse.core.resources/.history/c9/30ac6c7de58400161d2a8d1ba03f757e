@@ -1,0 +1,12 @@
+package br.com.alura.argentum.modelo;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class GeradorDeSerie {
+	public SerieTemporal criaSerie(double... d){
+		List<Candlestick> candles = new ArrayList<>();
+		
+		return new SerieTemporal(candles);
+	}
+}

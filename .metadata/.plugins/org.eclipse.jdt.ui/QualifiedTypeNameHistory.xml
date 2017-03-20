@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
+<fullyQualifiedTypeName name="br.com.alura.argentum.modelo.CandleBuilder"/>
+<fullyQualifiedTypeName name="java.lang.IllegalArgumentException"/>
+<fullyQualifiedTypeName name="org.junit.Test"/>
+<fullyQualifiedTypeName name="java.io.InputStream"/>
+<fullyQualifiedTypeName name="com.thoughtworks.xstream.XStream"/>
+<fullyQualifiedTypeName name="com.thoughtworks.xstream.io.xml.DomDriver"/>
+<fullyQualifiedTypeName name="java.io.ByteArrayInputStream"/>
+<fullyQualifiedTypeName name="br.com.alura.argentum.modelo.CandlestickFactory"/>
+<fullyQualifiedTypeName name="java.net.URL"/>
+<fullyQualifiedTypeName name="java.net.HttpURLConnection"/>
+<fullyQualifiedTypeName name="java.io.IOException"/>
+<fullyQualifiedTypeName name="br.com.alura.argentum.reader.LeitorXml"/>
+<fullyQualifiedTypeName name="javax.faces.bean.ManagedBean"/>
+<fullyQualifiedTypeName name="br.com.alura.argentum.ws.ClienteWebservice"/>
+<fullyQualifiedTypeName name="javax.faces.bean.ViewScoped"/>
+<fullyQualifiedTypeName name="java.io.Serializable"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="br.com.alura.argentum.modelo.Candlestick"/>
+<fullyQualifiedTypeName name="br.com.alura.argentum.indicadores.MediaMovelSimples"/>
+<fullyQualifiedTypeName name="org.junit.Assert"/>
+<fullyQualifiedTypeName name="br.com.alura.argentum.modelo.SerieTemporal"/>
+<fullyQualifiedTypeName name="br.com.alura.argentum.modelo.GeradorDeSerie"/>
+<fullyQualifiedTypeName name="br.com.alura.argentum.indicadores.MediaMovelPonderada"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="org.omg.PortableServer.ServantRetentionPolicyValue"/>
+<fullyQualifiedTypeName name="javax.servlet.http.HttpServlet"/>
+<fullyQualifiedTypeName name="br.com.alura.argentum.bean.ArgentumBean"/>
+<fullyQualifiedTypeName name="javax.servlet.annotation.WebServlet"/>
+<fullyQualifiedTypeName name="br.com.alura.argentum.modelo.Candle"/>
+<fullyQualifiedTypeName name="br.com.alura.argentum.modelo.Negociacao"/>
+<fullyQualifiedTypeName name="br.com.alura.argentum.xstream.LocalDateTimeConverter"/>
+<fullyQualifiedTypeName name="java.time.LocalDateTime"/>
+<fullyQualifiedTypeName name="java.lang.ClassLoader"/>
+</qualifiedTypeNameHistroy>

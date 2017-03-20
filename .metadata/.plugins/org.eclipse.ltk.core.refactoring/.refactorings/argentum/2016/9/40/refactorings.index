@@ -1,0 +1,8 @@
+1474940235830	Delete element
+1475002874013	Delete element
+1475004208644	Rename type 'Candlestick'
+1475004318772	Extract method 'geraEAdicionaCandle'
+1475004338300	Rename type 'CandlestickFactory'
+1475004369712	Extract local variable 'preco'
+1475004424516	Rename type 'CandlestickFactoryTest'
+1475004440322	Rename type 'CandlestickTest'

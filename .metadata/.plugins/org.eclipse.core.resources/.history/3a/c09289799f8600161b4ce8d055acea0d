@@ -1,0 +1,6 @@
+
+public class Principal {
+	public static void main(String[] args) {
+		Class<?> classe = Class.forName("java.lang.String");
+	}
+}
